@@ -1,0 +1,14 @@
+C:\Users\Dario\Documents\wordAnalyzer\wordAnalyzer\bin\Debug\net7.0\wordAnalyzer.exe
+C:\Users\Dario\Documents\wordAnalyzer\wordAnalyzer\bin\Debug\net7.0\wordAnalyzer.deps.json
+C:\Users\Dario\Documents\wordAnalyzer\wordAnalyzer\bin\Debug\net7.0\wordAnalyzer.runtimeconfig.json
+C:\Users\Dario\Documents\wordAnalyzer\wordAnalyzer\bin\Debug\net7.0\wordAnalyzer.dll
+C:\Users\Dario\Documents\wordAnalyzer\wordAnalyzer\bin\Debug\net7.0\wordAnalyzer.pdb
+C:\Users\Dario\Documents\wordAnalyzer\wordAnalyzer\obj\Debug\net7.0\wordAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dario\Documents\wordAnalyzer\wordAnalyzer\obj\Debug\net7.0\wordAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Dario\Documents\wordAnalyzer\wordAnalyzer\obj\Debug\net7.0\wordAnalyzer.AssemblyInfo.cs
+C:\Users\Dario\Documents\wordAnalyzer\wordAnalyzer\obj\Debug\net7.0\wordAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Documents\wordAnalyzer\wordAnalyzer\obj\Debug\net7.0\wordAnalyzer.dll
+C:\Users\Dario\Documents\wordAnalyzer\wordAnalyzer\obj\Debug\net7.0\refint\wordAnalyzer.dll
+C:\Users\Dario\Documents\wordAnalyzer\wordAnalyzer\obj\Debug\net7.0\wordAnalyzer.pdb
+C:\Users\Dario\Documents\wordAnalyzer\wordAnalyzer\obj\Debug\net7.0\wordAnalyzer.genruntimeconfig.cache
+C:\Users\Dario\Documents\wordAnalyzer\wordAnalyzer\obj\Debug\net7.0\ref\wordAnalyzer.dll
